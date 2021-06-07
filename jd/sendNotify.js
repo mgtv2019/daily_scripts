@@ -21,10 +21,10 @@ let BARK_SOUND = '';
 // =======================================telegram机器人通知设置区域===========================================
 //此处填你telegram bot 的Token，telegram机器人通知推送必填项.例如：1077xxx4424:AAFjv0FcqxxxxxxgEMGfi22B4yh15R5uw
 //(环境变量名 TG_BOT_TOKEN)
-let TG_BOT_TOKEN = '';
+let TG_BOT_TOKEN = '1890840508:AAHyDrDOQ5FjOnE4BlhjB_QV7niX-qLBf94';
 //此处填你接收通知消息的telegram用户的id，telegram机器人通知推送必填项.例如：129xxx206
 //(环境变量名 TG_USER_ID)
-let TG_USER_ID = '';
+let TG_USER_ID = 'xhr_jdbot';
 //tg推送HTTP代理设置(不懂可忽略,telegram机器人通知推送功能中非必填)
 let TG_PROXY_HOST = '';//例如:127.0.0.1(环境变量名:TG_PROXY_HOST)
 let TG_PROXY_PORT = '';//例如:1080(环境变量名:TG_PROXY_PORT)
